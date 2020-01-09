@@ -1,0 +1,10 @@
+# 必須
+Django==3.0.2
+django-bootstrap4==1.1.1
+
+# 依存関係で自動で入るもの
+asgiref==3.2.3
+beautifulsoup4==4.8.2
+pytz==2019.3
+soupsieve==1.9.5
+sqlparse==0.3.0
