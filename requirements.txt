@@ -1,5 +1,5 @@
 # 必須
-Django==3.0.2
+Django==3.0.14
 django-bootstrap4==1.1.1
 
 # 依存関係で自動で入るもの
